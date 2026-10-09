@@ -1,0 +1,4 @@
+interface:
+  display_name: "Formatos Sociales Agencia"
+  short_description: "Formatos profesionales para posts e historias"
+  default_prompt: "Crea o ajusta esta pieza al formato social solicitado, respetando margenes, fidelidad del producto y una diagramacion profesional."

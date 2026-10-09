@@ -1,0 +1,4 @@
+interface:
+  display_name: "Laboratorio de Tendencias Publicitarias"
+  short_description: "Ideas de campañas y conceptos gráficos con tendencias actuales por cliente y canal"
+  default_prompt: "Use $laboratorio-tendencias-publicitarias para idear conceptos publicitarios modernos, adaptar estilos visuales a tendencias y preparar variantes por canal para un cliente."

@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "fecha": "2026-10-09",
+  "skills": [
+    {
+      "nombre": "concepto-creatividad-agencia",
+      "rol": "creativo",
+      "ruta": "creativo/concepto-creatividad-agencia/SKILL.md",
+      "formato": "codex",
+      "origen": "skill profesional existente de la agencia"
+    },
+    {
+      "nombre": "copywriting-agencia",
+      "rol": "creativo",
+      "ruta": "creativo/copywriting-agencia/SKILL.md",
+      "formato": "codex",
+      "origen": "skill profesional existente de la agencia"
+    },
+    {
+      "nombre": "finalizar-diseno-creativo",
+      "rol": "creativo",
+      "ruta": "creativo/finalizar-diseno-creativo/SKILL.md",
+      "formato": "codex",
+      "origen": "skill profesional existente de la agencia"
+    },
+    {
+      "nombre": "formatos-sociales-agencia",
+      "rol": "creativo",
+      "ruta": "creativo/formatos-sociales-agencia/SKILL.md",
+      "formato": "codex",
+      "origen": "skill profesional existente de la agencia"
+    },
+    {
+      "nombre": "laboratorio-tendencias-publicitarias",
+      "rol": "community-manager",
+      "ruta": "community-manager/laboratorio-tendencias-publicitarias/SKILL.md",
+      "formato": "codex",
+      "origen": "skill profesional existente de la agencia"
+    },
+    {
+      "nombre": "media-buyer-agencia",
+      "rol": "media-buyer",
+      "ruta": "media-buyer/media-buyer-agencia/SKILL.md",
+      "formato": "codex",
+      "origen": "skill profesional existente de la agencia"
+    },
+    {
+      "nombre": "community-manager-profesional",
+      "rol": "community-manager",
+      "ruta": "community-manager/community-manager-profesional/instrucciones.md",
+      "formato": "instrucciones-dashboard",
+      "origen": "base profesional compartida v2 del dashboard"
+    }
+  ],
+  "archivos": [
+    {
+      "ruta": "README.md",
+      "sha256": "9c7622f113ed630be71670788ec70e3aaaa27b145507f7add65ec6c0fd8739a6"
+    },
+    {
+      "ruta": "asesor-comercial/README.md",
+      "sha256": "9874cc87a6e7d48e7e939b6645f38a76c60bb257df5a04a1395225a70647b590"
+    },
+    {
+      "ruta": "community-manager/README.md",
+      "sha256": "6373d91676c1818fbb0322979ee128947df55969f37bbb5f30cff255bf63f890"
+    },
+    {
+      "ruta": "community-manager/community-manager-profesional/instrucciones.md",
+      "sha256": "db8c06731a54390d8bee6e4778585afd92bc4b2839329abf71421677066767c0"
+    },
+    {
+      "ruta": "community-manager/laboratorio-tendencias-publicitarias/SKILL.md",
+      "sha256": "32161af73f9b00978d155b4fed77e8c52bc455bc549619ecac6467e2815883c3"
+    },
+    {
+      "ruta": "community-manager/laboratorio-tendencias-publicitarias/agents/openai.yaml",
+      "sha256": "6bba20e9941a6e24a336d0938d45c65480626ccfe0e761b93819259779bf5381"
+    },
+    {
+      "ruta": "coordinador/README.md",
+      "sha256": "936dedf906e81bcc51daa71b2f94be5ad55a8277c0e8fb9c9de1e5ae0bbd4f59"
+    },
+    {
+      "ruta": "creativo/README.md",
+      "sha256": "5b18e20b69b3ae1c4197890131ac8c433ca718cc0847671fb5b2185a5f6c2564"
+    },
+    {
+      "ruta": "creativo/concepto-creatividad-agencia/SKILL.md",
+      "sha256": "bdbacd720d5d4a8ad30982e20d597e28241298bb504fe1bdca04b5dc465f6bbf"
+    },
+    {
+      "ruta": "creativo/concepto-creatividad-agencia/agents/openai.yaml",
+      "sha256": "4402a75b1cc97d5130f686a621c0d201f432abce7e7941a23939537d8f1ec1ac"
+    },
+    {
+      "ruta": "creativo/concepto-creatividad-agencia/references/art-direction.md",
+      "sha256": "192e1e30d7ce2b22dc42ddc71a66514e9d2c014037e3c8223d38b7d6bba51a72"
+    },
+    {
+      "ruta": "creativo/concepto-creatividad-agencia/references/copywriting.md",
+      "sha256": "4a7492617d54545bd038596571eea9b54995fd7112040442d0b1e4981dc52921"
+    },
+    {
+      "ruta": "creativo/concepto-creatividad-agencia/references/creative-techniques.md",
+      "sha256": "040286a1dee5e932e236b4cd777705f113696b12166c629703c8b42cbcc816eb"
+    },
+    {
+      "ruta": "creativo/concepto-creatividad-agencia/references/delivery-templates.md",
+      "sha256": "4a5a06b75554950497dd6c8255af03857b2374c3b57dba1cd93d41d2fa87f6b9"
+    },
+    {
+      "ruta": "creativo/concepto-creatividad-agencia/references/insight-strategy.md",
+      "sha256": "4eff28bdb5d6c885fcfb8940103e7fc507fd545d227f8d52b3341314370c123e"
+    },
+    {
+      "ruta": "creativo/concepto-creatividad-agencia/references/scorecard.md",
+      "sha256": "1237f2b3347b251ba1fcd3a54278564c37b473405a34f991baac07c4a9e089d9"
+    },
+    {
+      "ruta": "creativo/copywriting-agencia/SKILL.md",
+      "sha256": "6756e09a2c4f52c3a0f72915518450439b922f4207389424aaac3a992abbbd3b"
+    },
+    {
+      "ruta": "creativo/copywriting-agencia/agents/openai.yaml",
+      "sha256": "e68bb5f548458c1538eb75204a83dacd3a3877c5f01b660dd48d30aa0bc7b81a"
+    },
+    {
+      "ruta": "creativo/copywriting-agencia/references/creatividad-persuasiva.md",
+      "sha256": "c6e02d9130d9035935988fdb7c7f41b1cc48841fa5f0322b092e4597e9f0046b"
+    },
+    {
+      "ruta": "creativo/copywriting-agencia/references/frameworks.md",
+      "sha256": "9416ca030771ad5f3e0483a7ddb20a82191627f1154485a123a60a971cb7cf92"
+    },
+    {
+      "ruta": "creativo/copywriting-agencia/references/guiones-cinematograficos.md",
+      "sha256": "b351f43c90cd91457b5336efbfbec31011f74284128f95350e329c6f225a422d"
+    },
+    {
+      "ruta": "creativo/copywriting-agencia/references/memoria-de-marca.md",
+      "sha256": "10836c5f52b58b99a85cd3be753206606ca677a04f0d34326d1001170c29c4e7"
+    },
+    {
+      "ruta": "creativo/finalizar-diseno-creativo/SKILL.md",
+      "sha256": "c0a5c96243bb9baaafea3dc44820938d261ff1aa0f917a9bbd1f7769f2dc87dd"
+    },
+    {
+      "ruta": "creativo/finalizar-diseno-creativo/agents/openai.yaml",
+      "sha256": "b5d983d4cc9f19ebf8ef16a992fdf039d193edfee173ef1cff4f24c9c6372a64"
+    },
+    {
+      "ruta": "creativo/finalizar-diseno-creativo/references/composicion-tipografia-color.md",
+      "sha256": "27b2cfcac1109ef1b6357e96efcd9aa762e33992c71db6f1b160e2860d2b1fdd"
+    },
+    {
+      "ruta": "creativo/finalizar-diseno-creativo/references/direcciones-visuales.md",
+      "sha256": "dd5b9b959610eb64e259e579a4adbb62ddd03e73b4248bcf52f4fa50e89e330a"
+    },
+    {
+      "ruta": "creativo/finalizar-diseno-creativo/references/produccion-y-exportacion.md",
+      "sha256": "4b33d8a6750057c2649f5e70e19af9b3034ec2f4b3b750afa5b3fc8cc9ad8c96"
+    },
+    {
+      "ruta": "creativo/finalizar-diseno-creativo/references/rubrica-revision.md",
+      "sha256": "9e2c45241ef1f0f868b8225fb661acfb59f86680dd8e70ba310c52f574f802bb"
+    },
+    {
+      "ruta": "creativo/finalizar-diseno-creativo/scripts/preflight_image.py",
+      "sha256": "2e091b10ecd014fe9243117e171254ba6e9bb6dd3ceac794d9c38a069d42fe06"
+    },
+    {
+      "ruta": "creativo/formatos-sociales-agencia/SKILL.md",
+      "sha256": "b2a560284575de7c9cc947a3effd78501d59ae4fbb3fca53a7915ebe6a66e4de"
+    },
+    {
+      "ruta": "creativo/formatos-sociales-agencia/agents/openai.yaml",
+      "sha256": "54bb84bc9f43d7f83d7b7277c6c6fa3802617f6ec6e44bbd58a70beaf36ff562"
+    },
+    {
+      "ruta": "media-buyer/README.md",
+      "sha256": "6ad1081baae22bb6c4be52cfa2316ece7f899d7c942a1acd14853dddcac241dd"
+    },
+    {
+      "ruta": "media-buyer/media-buyer-agencia/SKILL.md",
+      "sha256": "5f3d35c9c07d7fc992c3da424aae9f5fd1024c93aba8d4f2e210ae2a657fe818"
+    },
+    {
+      "ruta": "media-buyer/media-buyer-agencia/agents/openai.yaml",
+      "sha256": "30481df7e3da578c0bc945410fb7f672cdc045203a5a174012adba26959f4a6b"
+    },
+    {
+      "ruta": "media-buyer/media-buyer-agencia/references/client-context-template.md",
+      "sha256": "99957aa11fa1674dea130684379b5d8d7d2af8a41e6d28ea46c0c6af87c09e15"
+    },
+    {
+      "ruta": "media-buyer/media-buyer-agencia/references/decision-and-measurement.md",
+      "sha256": "0e7e8f370f53ef99b95b1f4953ed7e999cc21c5758e28d84ab40709e922b17ed"
+    },
+    {
+      "ruta": "media-buyer/media-buyer-agencia/references/platform-qa.md",
+      "sha256": "6c4daa9a426a29007da7d0e163bc3674df281b27894b05f24e2ca5a8daddb367"
+    },
+    {
+      "ruta": "media-buyer/media-buyer-agencia/references/source-registry.md",
+      "sha256": "13c7bef295cf75b3596fb5612b731e137c18f6f2adcc3aee5ea9c1697f265ed3"
+    },
+    {
+      "ruta": "web-shopify/README.md",
+      "sha256": "3716b83588eecdf63b4c3ceba887c72c6f1e81cb70a027f33f9bc72be11ebaa9"
+    }
+  ]
+}

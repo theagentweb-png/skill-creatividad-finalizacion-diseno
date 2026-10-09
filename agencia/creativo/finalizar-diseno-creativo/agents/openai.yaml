@@ -1,0 +1,4 @@
+interface:
+  display_name: "Finalización Creativa"
+  short_description: "Dirección de arte y acabado profesional"
+  default_prompt: "Usa $finalizar-diseno-creativo para revisar, retocar y finalizar este arte con criterio de dirección de arte."

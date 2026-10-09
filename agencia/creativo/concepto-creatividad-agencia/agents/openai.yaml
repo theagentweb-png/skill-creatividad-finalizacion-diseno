@@ -1,0 +1,4 @@
+interface:
+  display_name: "Concepto y Creatividad"
+  short_description: "Estrategia y creatividad publicitaria de agencia"
+  default_prompt: "Usa $concepto-creatividad-agencia para convertir este brief en una campaña estratégica, distintiva y ejecutable."

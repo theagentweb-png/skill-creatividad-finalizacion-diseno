@@ -1,0 +1,4 @@
+interface:
+  display_name: "Copywriting y Guion de Agencia"
+  short_description: "Copies y guiones fieles a cada marca"
+  default_prompt: "Usa $copywriting-agencia para crear copies o un guion cinematográfico fiel a la marca del cliente."

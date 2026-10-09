@@ -1,0 +1,4 @@
+interface:
+  display_name: "Media Buyer Agencia"
+  short_description: "Sistema operativo de pauta multicliente"
+  default_prompt: "Use $media-buyer-agencia para auditar y optimizar la pauta de un cliente."

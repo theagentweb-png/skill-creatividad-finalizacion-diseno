@@ -64,6 +64,34 @@
       "ruta": "media-buyer/media-buyer-trafficker-profesional/SKILL.md",
       "formato": "codex",
       "origen": "base de agencia adaptada tras revisar fuentes de GitHub y documentación oficial"
+    },
+    {
+      "nombre": "creativo-concepto-marca",
+      "rol": "creativo",
+      "ruta": "creativo/creativo-concepto-marca/SKILL.md",
+      "formato": "codex",
+      "origen": "módulo profesional autocontenido de agencia"
+    },
+    {
+      "nombre": "creativo-diseno-arte-final",
+      "rol": "creativo",
+      "ruta": "creativo/creativo-diseno-arte-final/SKILL.md",
+      "formato": "codex",
+      "origen": "módulo profesional autocontenido de agencia"
+    },
+    {
+      "nombre": "creativo-edicion-motion",
+      "rol": "creativo",
+      "ruta": "creativo/creativo-edicion-motion/SKILL.md",
+      "formato": "codex",
+      "origen": "módulo profesional autocontenido de agencia"
+    },
+    {
+      "nombre": "creativo-fotografia-ia",
+      "rol": "creativo",
+      "ruta": "creativo/creativo-fotografia-ia/SKILL.md",
+      "formato": "codex",
+      "origen": "módulo profesional autocontenido de agencia"
     }
   ],
   "archivos": [
@@ -101,7 +129,7 @@
     },
     {
       "ruta": "creativo/README.md",
-      "sha256": "5b18e20b69b3ae1c4197890131ac8c433ca718cc0847671fb5b2185a5f6c2564"
+      "sha256": "d3cfb1b20b9c46c49be34a1b32a95610ab59657ecbe097ab2376eda425a8083c"
     },
     {
       "ruta": "creativo/concepto-creatividad-agencia/SKILL.md",
@@ -160,6 +188,22 @@
       "sha256": "10836c5f52b58b99a85cd3be753206606ca677a04f0d34326d1001170c29c4e7"
     },
     {
+      "ruta": "creativo/creativo-concepto-marca/SKILL.md",
+      "sha256": "50479aebc41dd47e52dbdd566d78b8ba9d82c251bb7642e42bf7d1a93c98d629"
+    },
+    {
+      "ruta": "creativo/creativo-diseno-arte-final/SKILL.md",
+      "sha256": "0ceb8a5b2d6412d56afc2be1c21eaeba843cd663ef59f3262bf86ea05217f80c"
+    },
+    {
+      "ruta": "creativo/creativo-edicion-motion/SKILL.md",
+      "sha256": "68cd35924b35825adcd6c084d0020145619f3e0d3097e9ec2e483faf78d00be5"
+    },
+    {
+      "ruta": "creativo/creativo-fotografia-ia/SKILL.md",
+      "sha256": "888e5915231da4765608ee97ea1d0fc39b212ae2e44dc5cd15c5fc29298c795c"
+    },
+    {
       "ruta": "creativo/finalizar-diseno-creativo/SKILL.md",
       "sha256": "c0a5c96243bb9baaafea3dc44820938d261ff1aa0f917a9bbd1f7769f2dc87dd"
     },
@@ -194,6 +238,10 @@
     {
       "ruta": "creativo/formatos-sociales-agencia/agents/openai.yaml",
       "sha256": "54bb84bc9f43d7f83d7b7277c6c6fa3802617f6ec6e44bbd58a70beaf36ff562"
+    },
+    {
+      "ruta": "creativo/fuentes-revisadas.md",
+      "sha256": "834076b9c6063434467d04787d2fe08c52cf6de35e74068ed4e14116153b5464"
     },
     {
       "ruta": "media-buyer/README.md",

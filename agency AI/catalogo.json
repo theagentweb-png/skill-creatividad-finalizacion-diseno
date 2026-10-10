@@ -92,12 +92,33 @@
       "ruta": "creativo/creativo-fotografia-ia/SKILL.md",
       "formato": "codex",
       "origen": "módulo profesional autocontenido de agencia"
+    },
+    {
+      "nombre": "web-desarrollo-multiplataforma",
+      "rol": "web-shopify",
+      "ruta": "web-shopify/web-desarrollo-multiplataforma/SKILL.md",
+      "formato": "codex",
+      "origen": "base profesional de agencia adaptada a documentación oficial"
+    },
+    {
+      "nombre": "web-inventario-conciliacion",
+      "rol": "web-shopify",
+      "ruta": "web-shopify/web-inventario-conciliacion/SKILL.md",
+      "formato": "codex",
+      "origen": "base profesional de agencia adaptada a documentación oficial"
+    },
+    {
+      "nombre": "web-integraciones-crm",
+      "rol": "web-shopify",
+      "ruta": "web-shopify/web-integraciones-crm/SKILL.md",
+      "formato": "codex",
+      "origen": "base profesional de agencia adaptada a documentación oficial"
     }
   ],
   "archivos": [
     {
       "ruta": "README.md",
-      "sha256": "263d0f292c9bf8a771433b936a2c0e889aa1b213595e6558b929010528d8ba32"
+      "sha256": "eec0a908ede12cc517df3fd862ec8e98ffaf00d7af3b58029c3fc0da70fe63e5"
     },
     {
       "ruta": "asesor-comercial/README.md",
@@ -280,8 +301,28 @@
       "sha256": "5846689b25b571f7787b6d762e37888fd53a3e7a2417fbd66b81963683d931c0"
     },
     {
+      "ruta": "seleccion-de-skills.md",
+      "sha256": "ae18ed3ce1fa19f07bde3a522cc3a583f51e3f3ef19143c0bce897c4e81efbd8"
+    },
+    {
       "ruta": "web-shopify/README.md",
-      "sha256": "3716b83588eecdf63b4c3ceba887c72c6f1e81cb70a027f33f9bc72be11ebaa9"
+      "sha256": "00c2ab7825c61629648b8c429d13aae4934a7352853101af3a8fedf18e008328"
+    },
+    {
+      "ruta": "web-shopify/fuentes-revisadas.md",
+      "sha256": "35793e2519b0041ee070b607d897cbbcc8c4d4946a479f34550dbb599e51039f"
+    },
+    {
+      "ruta": "web-shopify/web-desarrollo-multiplataforma/SKILL.md",
+      "sha256": "f2c3f617e7663faa842014c03629580c90a722fd325b0e1d413ad78d7f909307"
+    },
+    {
+      "ruta": "web-shopify/web-integraciones-crm/SKILL.md",
+      "sha256": "6f88ab096931f1af502a59d369a014378f2e860570e0321855135f8f446aead6"
+    },
+    {
+      "ruta": "web-shopify/web-inventario-conciliacion/SKILL.md",
+      "sha256": "e9f54b576c113e60e3c77a2304fdba2c121acea1ad3946d4790704fee98c28cd"
     }
   ]
 }

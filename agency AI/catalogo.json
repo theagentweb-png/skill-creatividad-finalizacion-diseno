@@ -57,6 +57,13 @@
       "ruta": "coordinador/coordinador-direccion-marca/SKILL.md",
       "formato": "codex",
       "origen": "base profesional de agencia solicitada por el usuario"
+    },
+    {
+      "nombre": "media-buyer-trafficker-profesional",
+      "rol": "media-buyer",
+      "ruta": "media-buyer/media-buyer-trafficker-profesional/SKILL.md",
+      "formato": "codex",
+      "origen": "base de agencia adaptada tras revisar fuentes de GitHub y documentación oficial"
     }
   ],
   "archivos": [
@@ -190,7 +197,7 @@
     },
     {
       "ruta": "media-buyer/README.md",
-      "sha256": "6ad1081baae22bb6c4be52cfa2316ece7f899d7c942a1acd14853dddcac241dd"
+      "sha256": "fdb85781dc37d5764aa5021716992841d2e8d9eb58cbfe9f35b35361a134eb28"
     },
     {
       "ruta": "media-buyer/media-buyer-agencia/SKILL.md",
@@ -215,6 +222,14 @@
     {
       "ruta": "media-buyer/media-buyer-agencia/references/source-registry.md",
       "sha256": "13c7bef295cf75b3596fb5612b731e137c18f6f2adcc3aee5ea9c1697f265ed3"
+    },
+    {
+      "ruta": "media-buyer/media-buyer-trafficker-profesional/SKILL.md",
+      "sha256": "cb66fd540f902b86181e80e64b03814a1a38881184dc8f56f2e9eed44c23e221"
+    },
+    {
+      "ruta": "media-buyer/media-buyer-trafficker-profesional/references/fuentes-revisadas.md",
+      "sha256": "5846689b25b571f7787b6d762e37888fd53a3e7a2417fbd66b81963683d931c0"
     },
     {
       "ruta": "web-shopify/README.md",

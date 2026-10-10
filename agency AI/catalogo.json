@@ -50,12 +50,19 @@
       "ruta": "community-manager/community-manager-profesional/instrucciones.md",
       "formato": "instrucciones-dashboard",
       "origen": "base profesional compartida v2 del dashboard"
+    },
+    {
+      "nombre": "coordinador-direccion-marca",
+      "rol": "coordinador",
+      "ruta": "coordinador/coordinador-direccion-marca/SKILL.md",
+      "formato": "codex",
+      "origen": "base profesional de agencia solicitada por el usuario"
     }
   ],
   "archivos": [
     {
       "ruta": "README.md",
-      "sha256": "9c7622f113ed630be71670788ec70e3aaaa27b145507f7add65ec6c0fd8739a6"
+      "sha256": "263d0f292c9bf8a771433b936a2c0e889aa1b213595e6558b929010528d8ba32"
     },
     {
       "ruta": "asesor-comercial/README.md",
@@ -79,7 +86,11 @@
     },
     {
       "ruta": "coordinador/README.md",
-      "sha256": "936dedf906e81bcc51daa71b2f94be5ad55a8277c0e8fb9c9de1e5ae0bbd4f59"
+      "sha256": "e2462edfe847ee972796c2a138b90bee049ae48f365ca9b89f1a6058a371cb18"
+    },
+    {
+      "ruta": "coordinador/coordinador-direccion-marca/SKILL.md",
+      "sha256": "c08f6740c226a26ebe1c2c7fe213faa9bb160a1a5a512d683b02a89ca77717f9"
     },
     {
       "ruta": "creativo/README.md",

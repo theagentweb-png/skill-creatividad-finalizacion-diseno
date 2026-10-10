@@ -4,7 +4,7 @@ Un equipo profesional atiende varios clientes. Las skills de profesión se agrup
 
 | Rol del dashboard | Carpeta | Contenido actual |
 | --- | --- | --- |
-| Coordinador | [coordinador](coordinador/) | Espacio preparado; base independiente pendiente |
+| Coordinador | [coordinador](coordinador/) | Dirección de marca, liderazgo y revisión crítica |
 | Community manager | [community-manager](community-manager/) | Base profesional v2 y laboratorio de tendencias |
 | Creativo | [creativo](creativo/) | Concepto, copywriting, dirección de arte, formatos y finalización |
 | Media Buyer | [media-buyer](media-buyer/) | Pauta multicliente y referencias |
@@ -13,7 +13,7 @@ Un equipo profesional atiende varios clientes. Las skills de profesión se agrup
 
 ## Uso y mantenimiento
 
-Cada skill Codex conserva su `SKILL.md`, referencias, agentes y scripts existentes. Para instalarla se usa la carpeta completa de esa skill; no la carpeta `agencia` entera. La base de Community manager del dashboard se conserva como `instrucciones.md`, en el formato que utiliza Team manager.
+Cada skill Codex conserva su `SKILL.md`, referencias, agentes y scripts existentes. Para instalarla se usa la carpeta completa de esa skill; no la carpeta `agency AI` entera. La base de Community manager del dashboard se conserva como `instrucciones.md`, en el formato que utiliza Team manager.
 
 En Team manager se puede cargar el texto de la base profesional o previsualizar su archivo de GitHub. Copiar o editar archivos en este repositorio no cambia automáticamente las skills activas del dashboard ni instala herramientas, scripts o dependencias. Una actualización se revisa y se guarda como nueva versión en Team manager.
 
